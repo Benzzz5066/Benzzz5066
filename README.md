@@ -1,5 +1,2 @@
-- Hi I'm Benzzz
-- I'm currently very interested in learning how to code. I've only been at it since mid august 2023. Since I'm so new any advice or reviews anyone wants to make to my code is very much appreciated.
-- I'm currently learning a lot of Java, JS, and C++.
-- I'm not currently looking to collaborate on anything but maybe at somepoint in the future.
-- You can reach me at discord Benzzz #5066 or via email at stellarjay815@gmail.com
+Discord-Benzzz#5066
+Email-f0wlerbenn815@gmail.com
